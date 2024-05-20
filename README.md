@@ -1,6 +1,6 @@
 # RL-Maze
 
-# Hey, this is my first project I am publishing, if you have any questions feel free to let me know!
+# Hey, this is my first project I am publishing and first time using GitHub outside of CS50, if you have any questions feel free to let me know!
 
 
 # Maze Solving with Reinforcement Learning (Q-Learning)
