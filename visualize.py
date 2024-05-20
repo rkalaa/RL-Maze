@@ -67,7 +67,7 @@ def finish_episode(agent, maze, episode, actions, goal_reward, wall_penalty, ste
     # Return the results
     return total_reward, steps, path
 
-print("The finish_episode function is ready!")
+print("Finish_episode sucesss")
 
 def test_agent(agent, maze, actions, goal_reward, wall_penalty, step_penalty, num_episodes=1):
     # Test the agent!
@@ -132,4 +132,4 @@ def train_agent(agent, maze, actions, goal_reward, wall_penalty, step_penalty, n
     plt.tight_layout()
     plt.show()
 
-print("The train_agent function is ready!")
+print("Train_agent success")

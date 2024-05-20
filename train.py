@@ -27,7 +27,7 @@ goal_reward = 100
 wall_penalty = -10
 step_penalty = -1
 
-print("The rewards are set!")
+print("Maze and reward success")
 
 # Create the agent and train
 agent = QLearningAgent(maze, maze.maze_height, maze.maze_width)

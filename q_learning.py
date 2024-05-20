@@ -34,4 +34,4 @@ class QLearningAgent:
         new_q_value = current_q_value + self.learning_rate * (reward + self.discount * self.q_table[next_state][best_next_action] - current_q_value)
         self.q_table[state][action] = new_q_value
 
-print("The QLearningAgent class is ready!")
+print("QLearn success")
